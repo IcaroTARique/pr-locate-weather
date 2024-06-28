@@ -13,14 +13,14 @@ temperatura.
 
 **_Atente-se para a utilização do CEP sem hífen._**
 
-<h3 style="color:green"><b>Exemplo 200:</b></h3>
+### Exemplo 200:
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/58046700
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/58704090
 
-<h3 style="color:orange"><b>Exemplo 404:</b></h3>
+### Exemplo 404:
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/58046701
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/58704091
 
-<h3 style="color:red"><b>Exemplo 422:</b></h3>
+### Exemplo 422:
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/5804670
 - https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/8704091
