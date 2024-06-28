@@ -6,3 +6,6 @@ GET http://localhost:8080/temperature/5804632 HTTP/1.1
 
 ### GET temperature and local ERRO 404
 GET http://localhost:8080/temperature/58046321 HTTP/1.1
+
+### GET temperature and local CLOUD
+GET https://pr-locate-weather-l5ol6kq5cq-uc.a.run.app/temperature/58046320 HTTP/1.1
